@@ -1,5 +1,5 @@
 # Website-first-try
 
-My first go building a website.
+This is the repo where i will put my first go building a website.
 
-Some parts of the webiste are taken from course projects.
+Some parts of the webiste will be taken from udemy course projects.
